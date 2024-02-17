@@ -1,16 +1,8 @@
 # session_7
 
-A new Flutter project.
+![Screenshot_1708189398](https://github.com/Mohamed-Amin-911/session_7_assignment/assets/141561179/78abb4e2-b9ad-4e5d-a1e3-0185982228a9)
+![Screenshot_1708189406](https://github.com/Mohamed-Amin-911/session_7_assignment/assets/141561179/0a518143-dc14-465c-a13b-dc99bd83d559)
+![Screenshot_1708189411](https://github.com/Mohamed-Amin-911/session_7_assignment/assets/141561179/3dbfb0b1-6626-406b-8220-0be07e682744)
+![Screenshot_1708189415](https://github.com/Mohamed-Amin-911/session_7_assignment/assets/141561179/4444502a-36b8-4899-92d2-a26c47f911c6)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
